@@ -12,16 +12,16 @@
 
 <h2>Screenshots</h2>
 <h3>Login Screen</h3>
-<img src="/screenshots/Screenshot 2023-03-18 150255.png" alt="Login Screen">
+<img width='300px' src="/screenshots/Screenshot 2023-03-18 150255.png" alt="Login Screen">
 
 <h3>Registration Screen</h3>
-<img src="/screenshots/Screenshot 2023-03-18 150354.png" alt="Registration Screen">
+<img width='300px' src="/screenshots/Screenshot 2023-03-18 150354.png" alt="Registration Screen">
 
 <h3>Main Screen</h3>
-<img src="/screenshots/Screenshot 2023-03-18 151602.png" alt="Main Screen">
+<img width='500px' src="/screenshots/Screenshot 2023-03-18 151602.png" alt="Main Screen">
 
 <h3>Send Message Screen</h3>
-<img src="/screenshots/Screenshot 2023-03-18 151617.png" alt="Send Message Screen">
+<img width='300px' src="/screenshots/Screenshot 2023-03-18 151617.png" alt="Send Message Screen">
 
 <h2>Non-Functional Features, Technologies, and Patterns Used</h2>
 <p>The following are the non-functional features, technologies, and patterns used in the app:</p>
